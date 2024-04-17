@@ -6,10 +6,16 @@
 //Group: 3 
 //Judul Program : Tugas-06_03 (Tugas Pertemuan ke 6 Linked list) 
 
+
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "function.h" // Include function.h if used
+#include "function.h"
 
 int main() {
   Node* head = NULL; // Initialize empty list
